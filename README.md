@@ -1,0 +1,1 @@
+![Animation showing demo app](Animation.gif)
